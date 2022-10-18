@@ -1,0 +1,22 @@
+
+
+
+body{
+    text-align: center;
+}
+input{
+    margin-top: 1rem;
+    display: block;
+    margin: auto;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    width: 40%;
+    font-size: 26px;
+}
+button{
+   margin: auto;
+   padding: 0.5rem 0.5rem;
+   margin-bottom: 1rem;
+   display: block;
+   border-radius: 0.5rem;
+} 
