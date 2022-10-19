@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+
+:root{
+    --primary-color: #FFFF00;
+    --secondary-color: #800000;
+}
+
+body{
+    font-family: 'Dancing Script', cursive;
+}
+
+h1{
+    color: var(--primary-color);
+}
+h2{
+    color: var(--secondary-color);
+}
+.primary{
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
+}
+.secondary{
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+
+}
