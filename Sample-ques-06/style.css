@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+label{
+    margin: auto;
+    display: block;
+    margin-bottom: 1rem;
+
+}
+button{
+    margin: auto;
+    padding: 0.5rem 0.5rem;
+
+}
