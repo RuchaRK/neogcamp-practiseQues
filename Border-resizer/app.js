@@ -1,3 +1,5 @@
+//take name and have 2 border buttons and chnage the border acc to buttons
+
 var name1 = document.querySelector("#nameInput")
 var firstBtn = document.querySelector("#firstBtn")
 var secondBtn = document.querySelector("#secondBtn")
